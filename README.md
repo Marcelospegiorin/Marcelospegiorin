@@ -2,7 +2,7 @@ Hi, I’m @Marcelospegiorin, I'm 18 years old and I'm a programming lover.
 
 ✔ I currently have knowledge of JavaScript, HTML5, CSS and React Native 💭
 
-✔ I'm studying Java and SQL
+✔ I'm studying NodeJS and SQL
 
 📢 Learn more about me at Linkedin: https://www.linkedin.com/in/marcelo-martinsspegiorin/
     

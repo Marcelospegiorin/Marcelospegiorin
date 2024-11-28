@@ -4,6 +4,8 @@
 
 ✔ I'm studying Golang
 
+💼 S2B Software - Systems Analyst
+
 📢 Learn more about me at Linkedin: https://www.linkedin.com/in/marcelo-martinsspegiorin/
 
 
